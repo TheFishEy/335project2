@@ -3,11 +3,11 @@
 | Name | Email |
 |------|--------|
 | Patrick Hung | twosquare@csu.fullerton.edu |
-| Nhi Danis | |
-| Alexandru Gonzales | |
-| Johnny Nguyen | |
+| Nhi Danis | ndanis@csu.fullerton.edu |
+| Alexandru Gonzales | alexandrugonzales@csu.fullerton.edu |
+| Johnny Nguyen |  johnnynguyenha@csu.fullerton.edu |
 
 ### How To Run the Program
 - Run the program using at least c++ 17
-- I used "clang++ -std=c++17 project2_starter.cpp -o project2_starter" to compile directly without a makefile, then ran ./project2_starter
+- Use "clang++ -std=c++17 project2_starter.cpp -o project2_starter" to compile directly without a makefile, then run ./project2_starter
 
